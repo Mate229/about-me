@@ -1,1 +1,1 @@
-# about-me
+Une petite description de mon profil de developpeur et quelques liens utiles.# about-me
